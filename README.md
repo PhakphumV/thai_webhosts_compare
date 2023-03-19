@@ -18,7 +18,7 @@
 ## Out of scope
 - Any VPS Services
 
-## Web Hosting Candidate and Source URLs as per 2023Q1
+## Candidates and Source URLs as per 2023Q1
 | Service Provider  | Service Name                | Link                                                                            |
 | ---               | ---                         | ---                                                                             |
 | Hostinger         | Web Hosting                 | https://www.hostinger.com/web-hosting                                           |
